@@ -22,6 +22,14 @@ h3 {
   color: #6f4a8e;
 }
 
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
 a {
   color: #6f4a8e;
 }
@@ -57,7 +65,8 @@ a {
 }
 
 .education,
-.work {
+.work,
+.project {
   padding-left: 10%;
   text-align: left;
 }
