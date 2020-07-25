@@ -34,6 +34,12 @@ hr {
 
 a {
   color: #6f4a8e;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a8d8ea;
 }
 
 .top-container {
