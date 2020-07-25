@@ -15,11 +15,13 @@ h2 {
   font-family: "Montserrat", sans-serif;
   color: #3b2e5a;
   font-weight: normal;
+  font-size: 200%;
 }
 
 h3 {
   font-family: "Montserrat", sans-serif;
   color: #6f4a8e;
+  font-size: 150%;
 }
 
 hr {
