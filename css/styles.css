@@ -76,3 +76,29 @@ a:hover {
   padding-left: 10%;
   text-align: left;
 }
+
+#middle-heading {
+  font-weight: 800;
+}
+
+#profile-img {
+  border-radius: 10px;
+}
+
+@media (max-width: 1020px) {
+  .top-rocket {
+    right: 100px;
+    top: 50px;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+  }
+
+  .bottom-rocket {
+    left: 200px;
+    bottom: 450px;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+  }
+}
